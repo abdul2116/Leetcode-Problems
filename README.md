@@ -20,6 +20,7 @@ My solved LeetCode problems organized by topic and difficulty
 | [0349-intersection-of-two-arrays](https://github.com/abdul2116/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/abdul2116/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/abdul2116/Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
+| [0704-binary-search](https://github.com/abdul2116/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abdul2116/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abdul2116/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/abdul2116/Leetcode-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -32,6 +33,7 @@ My solved LeetCode problems organized by topic and difficulty
 | [0162-find-peak-element](https://github.com/abdul2116/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/abdul2116/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abdul2116/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/abdul2116/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abdul2116/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abdul2116/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Two Pointers
