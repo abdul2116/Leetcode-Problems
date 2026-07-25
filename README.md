@@ -62,6 +62,7 @@ My solved LeetCode problems organized by topic and difficulty
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/abdul2116/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/abdul2116/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/abdul2116/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/abdul2116/Leetcode-Problems/tree/master/0268-missing-number) |
 ## Simulation
@@ -72,4 +73,8 @@ My solved LeetCode problems organized by topic and difficulty
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/abdul2116/Leetcode-Problems/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/abdul2116/Leetcode-Problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
