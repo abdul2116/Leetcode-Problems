@@ -6,6 +6,7 @@ My solved LeetCode problems organized by topic and difficulty
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abdul2116/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abdul2116/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abdul2116/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abdul2116/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -59,6 +60,7 @@ My solved LeetCode problems organized by topic and difficulty
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abdul2116/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/abdul2116/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abdul2116/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
