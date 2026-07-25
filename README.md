@@ -9,6 +9,7 @@ My solved LeetCode problems organized by topic and difficulty
 | [0027-remove-element](https://github.com/abdul2116/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/abdul2116/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abdul2116/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/abdul2116/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/abdul2116/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abdul2116/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/abdul2116/Leetcode-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -16,6 +17,7 @@ My solved LeetCode problems organized by topic and difficulty
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abdul2116/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/abdul2116/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/abdul2116/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abdul2116/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Two Pointers
