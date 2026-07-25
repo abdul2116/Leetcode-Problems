@@ -13,6 +13,7 @@ My solved LeetCode problems organized by topic and difficulty
 | [0035-search-insert-position](https://github.com/abdul2116/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/abdul2116/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/abdul2116/Leetcode-Problems/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/abdul2116/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abdul2116/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abdul2116/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/abdul2116/Leetcode-Problems/tree/master/0189-rotate-array) |
@@ -42,6 +43,7 @@ My solved LeetCode problems organized by topic and difficulty
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abdul2116/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abdul2116/Leetcode-Problems/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/abdul2116/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/abdul2116/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/abdul2116/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/abdul2116/Leetcode-Problems/tree/master/0344-reverse-string) |
@@ -66,6 +68,7 @@ My solved LeetCode problems organized by topic and difficulty
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/abdul2116/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/abdul2116/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abdul2116/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Math
