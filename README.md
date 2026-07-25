@@ -14,6 +14,7 @@ My solved LeetCode problems organized by topic and difficulty
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abdul2116/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abdul2116/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/abdul2116/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/abdul2116/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/abdul2116/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/abdul2116/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/abdul2116/Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
@@ -35,6 +36,7 @@ My solved LeetCode problems organized by topic and difficulty
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/abdul2116/Leetcode-Problems/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/abdul2116/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/abdul2116/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/abdul2116/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## String
