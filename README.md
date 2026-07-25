@@ -7,6 +7,7 @@ My solved LeetCode problems organized by topic and difficulty
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/abdul2116/Leetcode-Problems/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abdul2116/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/abdul2116/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/abdul2116/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/abdul2116/Leetcode-Problems/tree/master/0066-plus-one) |
@@ -20,6 +21,7 @@ My solved LeetCode problems organized by topic and difficulty
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abdul2116/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/abdul2116/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abdul2116/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abdul2116/Leetcode-Problems/tree/master/0162-find-peak-element) |
