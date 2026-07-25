@@ -12,6 +12,7 @@ My solved LeetCode problems organized by topic and difficulty
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abdul2116/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/abdul2116/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/abdul2116/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/abdul2116/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/abdul2116/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/abdul2116/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abdul2116/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -97,9 +98,14 @@ My solved LeetCode problems organized by topic and difficulty
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/abdul2116/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/abdul2116/Leetcode-Problems/tree/master/0169-majority-element) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abdul2116/Leetcode-Problems/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/abdul2116/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
