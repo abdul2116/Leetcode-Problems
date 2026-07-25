@@ -6,6 +6,7 @@ My solved LeetCode problems organized by topic and difficulty
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/abdul2116/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abdul2116/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abdul2116/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/abdul2116/Leetcode-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -17,6 +18,7 @@ My solved LeetCode problems organized by topic and difficulty
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/abdul2116/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/abdul2116/Leetcode-Problems/tree/master/0344-reverse-string) |
 ## String
 |  |
