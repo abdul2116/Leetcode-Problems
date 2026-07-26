@@ -26,6 +26,7 @@ My solved LeetCode problems organized by topic and difficulty
 | [0349-intersection-of-two-arrays](https://github.com/abdul2116/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/abdul2116/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/abdul2116/Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/abdul2116/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/abdul2116/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abdul2116/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abdul2116/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -80,6 +81,7 @@ My solved LeetCode problems organized by topic and difficulty
 | [0169-majority-element](https://github.com/abdul2116/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/abdul2116/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abdul2116/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/abdul2116/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/abdul2116/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
@@ -89,6 +91,7 @@ My solved LeetCode problems organized by topic and difficulty
 | [0066-plus-one](https://github.com/abdul2116/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/abdul2116/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/abdul2116/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/abdul2116/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/abdul2116/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
 |  |
