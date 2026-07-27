@@ -30,6 +30,7 @@ My solved LeetCode problems organized by topic and difficulty
 | [0704-binary-search](https://github.com/abdul2116/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abdul2116/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abdul2116/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abdul2116/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/abdul2116/Leetcode-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abdul2116/Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -82,6 +83,7 @@ My solved LeetCode problems organized by topic and difficulty
 | [0268-missing-number](https://github.com/abdul2116/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abdul2116/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abdul2116/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abdul2116/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/abdul2116/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
@@ -120,4 +122,8 @@ My solved LeetCode problems organized by topic and difficulty
 | ------- |
 | [0053-maximum-subarray](https://github.com/abdul2116/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abdul2116/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abdul2116/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
