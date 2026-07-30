@@ -63,6 +63,7 @@ My solved LeetCode problems organized by topic and difficulty
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abdul2116/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0091-decode-ways](https://github.com/abdul2116/Leetcode-Problems/tree/master/0091-decode-ways) |
 | [0344-reverse-string](https://github.com/abdul2116/Leetcode-Problems/tree/master/0344-reverse-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abdul2116/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abdul2116/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Matrix
 |  |
@@ -99,6 +100,7 @@ My solved LeetCode problems organized by topic and difficulty
 | [0189-rotate-array](https://github.com/abdul2116/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/abdul2116/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abdul2116/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abdul2116/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/abdul2116/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
 |  |
@@ -140,4 +142,8 @@ My solved LeetCode problems organized by topic and difficulty
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abdul2116/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abdul2116/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
