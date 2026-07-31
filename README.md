@@ -64,6 +64,7 @@ My solved LeetCode problems organized by topic and difficulty
 | [0091-decode-ways](https://github.com/abdul2116/Leetcode-Problems/tree/master/0091-decode-ways) |
 | [0344-reverse-string](https://github.com/abdul2116/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abdul2116/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abdul2116/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abdul2116/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Matrix
 |  |
@@ -80,6 +81,7 @@ My solved LeetCode problems organized by topic and difficulty
 | [0169-majority-element](https://github.com/abdul2116/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/abdul2116/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abdul2116/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abdul2116/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -89,6 +91,7 @@ My solved LeetCode problems organized by topic and difficulty
 | [0349-intersection-of-two-arrays](https://github.com/abdul2116/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abdul2116/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abdul2116/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abdul2116/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abdul2116/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/abdul2116/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
@@ -124,6 +127,7 @@ My solved LeetCode problems organized by topic and difficulty
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abdul2116/Leetcode-Problems/tree/master/0169-majority-element) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abdul2116/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -146,4 +150,5 @@ My solved LeetCode problems organized by topic and difficulty
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abdul2116/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abdul2116/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
