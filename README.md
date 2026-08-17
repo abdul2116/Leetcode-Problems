@@ -33,6 +33,7 @@ My solved LeetCode problems organized by topic and difficulty
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abdul2116/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abdul2116/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abdul2116/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/abdul2116/Leetcode-Problems/tree/master/1563-stone-game-v) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/abdul2116/Leetcode-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abdul2116/Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abdul2116/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -113,6 +114,7 @@ My solved LeetCode problems organized by topic and difficulty
 | [0268-missing-number](https://github.com/abdul2116/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/abdul2116/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abdul2116/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1563-stone-game-v](https://github.com/abdul2116/Leetcode-Problems/tree/master/1563-stone-game-v) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abdul2116/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/abdul2116/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
@@ -147,6 +149,7 @@ My solved LeetCode problems organized by topic and difficulty
 | [0091-decode-ways](https://github.com/abdul2116/Leetcode-Problems/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abdul2116/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/abdul2116/Leetcode-Problems/tree/master/0486-predict-the-winner) |
+| [1563-stone-game-v](https://github.com/abdul2116/Leetcode-Problems/tree/master/1563-stone-game-v) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -169,6 +172,7 @@ My solved LeetCode problems organized by topic and difficulty
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/abdul2116/Leetcode-Problems/tree/master/0486-predict-the-winner) |
+| [1563-stone-game-v](https://github.com/abdul2116/Leetcode-Problems/tree/master/1563-stone-game-v) |
 ## Sliding Window
 |  |
 | ------- |
