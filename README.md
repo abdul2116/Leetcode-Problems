@@ -7,6 +7,7 @@ My solved LeetCode problems organized by topic and difficulty
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abdul2116/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/abdul2116/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abdul2116/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abdul2116/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/abdul2116/Leetcode-Problems/tree/master/0031-next-permutation) |
@@ -52,6 +53,7 @@ My solved LeetCode problems organized by topic and difficulty
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abdul2116/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abdul2116/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abdul2116/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/abdul2116/Leetcode-Problems/tree/master/0031-next-permutation) |
@@ -160,6 +162,7 @@ My solved LeetCode problems organized by topic and difficulty
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abdul2116/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abdul2116/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abdul2116/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Game Theory
