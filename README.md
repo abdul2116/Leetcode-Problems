@@ -8,6 +8,7 @@ My solved LeetCode problems organized by topic and difficulty
 | ------- |
 | [0001-two-sum](https://github.com/abdul2116/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/abdul2116/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/abdul2116/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abdul2116/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abdul2116/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/abdul2116/Leetcode-Problems/tree/master/0031-next-permutation) |
@@ -68,6 +69,7 @@ My solved LeetCode problems organized by topic and difficulty
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/abdul2116/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abdul2116/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0091-decode-ways](https://github.com/abdul2116/Leetcode-Problems/tree/master/0091-decode-ways) |
 | [0344-reverse-string](https://github.com/abdul2116/Leetcode-Problems/tree/master/0344-reverse-string) |
@@ -179,4 +181,8 @@ My solved LeetCode problems organized by topic and difficulty
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abdul2116/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/abdul2116/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
