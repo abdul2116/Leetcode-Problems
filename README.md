@@ -37,6 +37,7 @@ My solved LeetCode problems organized by topic and difficulty
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abdul2116/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/abdul2116/Leetcode-Problems/tree/master/1563-stone-game-v) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/abdul2116/Leetcode-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/abdul2116/Leetcode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abdul2116/Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abdul2116/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abdul2116/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -177,6 +178,7 @@ My solved LeetCode problems organized by topic and difficulty
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abdul2116/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/abdul2116/Leetcode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abdul2116/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abdul2116/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Game Theory
