@@ -199,4 +199,8 @@ My solved LeetCode problems organized by topic and difficulty
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abdul2116/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/abdul2116/Leetcode-Problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
