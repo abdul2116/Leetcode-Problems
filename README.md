@@ -47,6 +47,7 @@ My solved LeetCode problems organized by topic and difficulty
 | [3471-find-the-largest-almost-missing-integer](https://github.com/abdul2116/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/abdul2116/Leetcode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abdul2116/Leetcode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3903-smallest-stable-index-i](https://github.com/abdul2116/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -203,4 +204,8 @@ My solved LeetCode problems organized by topic and difficulty
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/abdul2116/Leetcode-Problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/abdul2116/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
