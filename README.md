@@ -83,6 +83,7 @@ My solved LeetCode problems organized by topic and difficulty
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abdul2116/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0091-decode-ways](https://github.com/abdul2116/Leetcode-Problems/tree/master/0091-decode-ways) |
 | [0344-reverse-string](https://github.com/abdul2116/Leetcode-Problems/tree/master/0344-reverse-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/abdul2116/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abdul2116/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abdul2116/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abdul2116/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -185,6 +186,7 @@ My solved LeetCode problems organized by topic and difficulty
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abdul2116/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/abdul2116/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abdul2116/Leetcode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abdul2116/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abdul2116/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -210,4 +212,12 @@ My solved LeetCode problems organized by topic and difficulty
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/abdul2116/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/abdul2116/Leetcode-Problems/tree/master/3904-smallest-stable-index-ii) |
+## Stack
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/abdul2116/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/abdul2116/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
