@@ -41,6 +41,7 @@ My solved LeetCode problems organized by topic and difficulty
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/abdul2116/Leetcode-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abdul2116/Leetcode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abdul2116/Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abdul2116/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abdul2116/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abdul2116/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abdul2116/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -102,6 +103,7 @@ My solved LeetCode problems organized by topic and difficulty
 | [0169-majority-element](https://github.com/abdul2116/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/abdul2116/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abdul2116/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abdul2116/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abdul2116/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abdul2116/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abdul2116/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -220,4 +222,12 @@ My solved LeetCode problems organized by topic and difficulty
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abdul2116/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abdul2116/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abdul2116/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
